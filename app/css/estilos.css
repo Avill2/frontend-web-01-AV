@@ -1,0 +1,32 @@
+
+    /*comentarios.css*/
+    /*etiqueta*/
+h1,h2 {
+    /*buscarEtiquetas{nombre-propiedad:valor*/
+    color: green;
+}
+/*id*/
+/*buscamos por id*/
+#rojo{
+    color:red;
+}
+    #rojo: hover{
+        color:burlywood;
+    }
+/*clase*/
+/*le buscamos por un punto*/
+.bg-green{
+    color:greenyellow;
+}
+
+.borde-cafe{
+    border-style: solid;
+    border-width: 3px;
+    border-color: brown;
+}
+/*style*/
+
+/*query selector*/
+h1.bg-green, h2.borde-cafe{
+    background-color: blueviolet;
+}
