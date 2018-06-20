@@ -1,3 +1,32 @@
 .verde{
 color:violet;
 }
+
+.bg-azul{
+    background-color: blue;
+}
+.bg-amarillo{
+    background-color: yellow;
+}
+.bg-verde{
+    background-color: green;
+}.bg-rojo{
+     background-color: red;
+ }.bg-morado{
+      background-color: purple;
+  }
+.bg-cafe{
+    background-color: brown;
+}
+.bg-negro{
+    background-color: black;
+}
+.bg-plomo{
+    background-color: gray;
+}
+.bg-cyan{
+    background-color: cyan;
+}
+
+
+

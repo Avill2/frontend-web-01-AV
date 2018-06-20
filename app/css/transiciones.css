@@ -1,0 +1,59 @@
+.titulo {
+    font-size:15px;
+    color: yellow;
+    background-color: black;
+    /*-webkit-transition: background-color 2s;*/
+    -webkit-transition: font-size 2s;
+    transition: background-color 2s;
+    animation-name: colores;
+    animation-duration: 10s;
+    animation-delay: 2s;
+    animation-iteration-count: 3;
+    animation-direction: alternate;
+    animation-timing-function: ease-in;
+}
+
+.titulo:hover{
+    background-color: red;
+    color: white;
+    font-size: 25px;
+}
+
+/*ANIMACIONES*/
+@keyframes colores {
+    0%{
+        background-color: red;
+        color: brown;
+        font-size: 10px;
+    }
+    40%{
+        background-color: green;
+        color: blue;
+        font-size: 20px;
+    }
+    50%{
+        background-color: purple;
+        color: yellow;
+        font-size: 25px;
+    }
+    75%{
+        background-color: orange;
+        color: darkmagenta;
+        font-size: 20px;
+    }
+    100% {
+        background-color: cyan;
+        color: chocolate;
+        font-size: 15px;
+    }
+}
+    .transicion-2d{
+        -ms-transform: translate(10px,20px);
+        -webkit-transform: translate(10px,20px);
+        transform: translate(10px,30px) rotate(-10deg)
+        scale(0.5, 1.5)
+        skew(75deg)
+        rotate3d(5,5,2, 30deg);
+    }
+
+
