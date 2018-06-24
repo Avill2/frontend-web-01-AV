@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43a73dc0-9ba9-4397-9087-881138133e5e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/grilla.html" afterPath="$PROJECT_DIR$/app/grilla.html" />
-      <change beforePath="$PROJECT_DIR$/app/javascript.html" afterPath="$PROJECT_DIR$/app/javascript.html" />
-      <change beforePath="$PROJECT_DIR$/app/js/funciones.js" afterPath="$PROJECT_DIR$/app/js/funciones.js" />
-      <change beforePath="$PROJECT_DIR$/app/js/funciones.ts" afterPath="$PROJECT_DIR$/app/js/funciones.ts" />
+      <change beforePath="$PROJECT_DIR$/app/img/1.PNG" afterPath="$PROJECT_DIR$/app/img/1.PNG" />
+      <change beforePath="$PROJECT_DIR$/app/img/2.PNG" afterPath="$PROJECT_DIR$/app/img/2.PNG" />
+      <change beforePath="$PROJECT_DIR$/app/img/3.PNG" afterPath="$PROJECT_DIR$/app/img/3.PNG" />
+      <change beforePath="$PROJECT_DIR$/app/img/4.PNG" afterPath="$PROJECT_DIR$/app/img/4.PNG" />
+      <change beforePath="$PROJECT_DIR$/app/img/5.PNG" afterPath="$PROJECT_DIR$/app/img/5.PNG" />
+      <change beforePath="$PROJECT_DIR$/app/img/6.PNG" afterPath="$PROJECT_DIR$/app/img/6.PNG" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,8 +45,8 @@
       <file leaf-file-name="grilla.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/grilla.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="136" column="4" lean-forward="false" selection-start-line="136" selection-start-column="4" selection-end-line="136" selection-end-column="4" />
+            <state relative-caret-position="249">
+              <caret line="121" column="4" lean-forward="true" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -253,12 +255,12 @@
       <workItem from="1529331100988" duration="6334000" />
       <workItem from="1529511306018" duration="6459000" />
       <workItem from="1529756864858" duration="10323000" />
-      <workItem from="1529850323871" duration="5246000" />
+      <workItem from="1529850323871" duration="7463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31629000" />
+    <option name="totallyTimeSpent" value="33846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -521,8 +523,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/grilla.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="136" column="4" lean-forward="false" selection-start-line="136" selection-start-column="4" selection-end-line="136" selection-end-column="4" />
+        <state relative-caret-position="249">
+          <caret line="121" column="4" lean-forward="true" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
           <folding />
         </state>
       </provider>
